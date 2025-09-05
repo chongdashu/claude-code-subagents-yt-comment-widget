@@ -1,0 +1,114 @@
+
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.pnpm-store/
+.yarn/
+.npm
+
+# Build outputs
+dist/
+dist-ssr/
+*.local
+.parcel-cache
+.next/
+out/
+.nuxt/
+.output/
+.vercel/
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+.fleet/
+.zed/
+
+# Claude Code specific
+.claude/statusline.log
+.claude/hooks/**/debug.log
+.claude/hooks/**/*.log
+.claude/settings.local.json
+.claude/.cache/
+
+# API Keys and secrets
+**/secrets/
+**/credentials/
+*.key
+*.pem
+*.cert
+
+# Database
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Cache and temporary files
+.cache/
+tmp/
+temp/
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+
+# Logs
+logs/
+*.log
+log.txt
+
+# Testing
+coverage/
+.nyc_output/
+*.lcov
+test-results/
+playwright-report/
+playwright/.cache/
+e2e/screenshots/
+e2e/videos/
+cypress/screenshots/
+cypress/videos/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+.Spotlight-V100
+.Trashes
+
+# YouTube API cache (project specific)
+.youtube_cache/
+youtube_cache/
+api_cache/
+video_cache/
+
+# AI API responses cache
+.ai_cache/
+sentiment_cache/
+
+# Generated files
+generated/
+public/uploads/
+static/uploads/
