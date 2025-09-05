@@ -1,6 +1,7 @@
 # 🎯 YouTube Social Proof Widget - Learn the Pattern
 
 **🎥 Watch the Tutorial** ► [How to Build an MVP with Claude Code Subagents (The Right Way)](https://www.youtube.com/watch?v=3564u77Vyqk)
+
 **🧰 Get the Builder Pack** ► [Click Here](https://rebrand.ly/e75fcd)
 
 Learn how to build production-ready MVPs in under 1 hour using the revolutionary 5-phase Claude Code subagent pattern. This repository contains the PRD template that demonstrates the pattern in action.
